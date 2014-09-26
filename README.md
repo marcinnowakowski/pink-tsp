@@ -1,5 +1,9 @@
 # pink-tsp - "Does pink suit traveling salesmen?"
 
+```bash
+git clone git://github.com/marcinnowakowski/pink-tsp.git
+```
+
 ## How it was created?
 
 ```bash
