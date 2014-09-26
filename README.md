@@ -22,7 +22,7 @@ vi README.md
 If you are into Ecplise
 Install Eclipse i.e Luna 4.3.<br>
 Install counterclockwise plugin (https://code.google.com/p/counterclockwise/)<br>
-from (http://updatesite.ccw-ide.org/stable/).
+using update side (http://updatesite.ccw-ide.org/stable/).
 ```bash
 ### Adding IDE support as user level lein plugin
 vi ../../.lein/profiles.clj
